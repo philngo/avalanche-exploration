@@ -13,7 +13,7 @@ Utah Automated Geographic Reference Center (AGRC)
 
 ## iPython Notebook
 This [iPython notebook](http://nbviewer.ipython.org/urls/raw2.github.com/philngo/avalanche-exploration/master/code/Avalanche%20data%20analysis.ipynb?create=1)
-) will be of particular interest to anyone who wishes to look at some of the
+ will be of particular interest to anyone who wishes to look at some of the
 more interesting results.
 
 ## Disclaimer
