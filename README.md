@@ -21,10 +21,10 @@ Results and predictions from this model *cannot replace* on-the-ground training
 in avalanche safety and rescue, nor can it alleviate the need for adequate
 equipment and travel companions.
 
-© Phil Ngo
-
 ### Caveats
 - missing data from the first 3 hours of 2012-02-06, replaced it with the second
  three hours instead
 - See discussion in iPython Notebook concerning the limitations of the UAC data,
  which is crowd-sourced and potentially inaccurate.
+
+© Phil Ngo
