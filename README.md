@@ -8,14 +8,23 @@ be overstated.
 
 ## Data sources
 Utah Avalanche Center (UAC)
-North American Mesoscale Forecast System (NAM)
+North American Mesoscale Forecast System (NAM) ftp://nomads.ncdc.noaa.gov/NAM/Grid218
 Utah Automated Geographic Reference Center (AGRC)
 
 ## iPython Notebook
-Of particular interest to anyone who wishes to look at some of the more interesting
-results will be the iPython Notebook [here](http://nbviewer.ipython.org/urls/raw2.github.com/philngo/avalanche-exploration/master/code/Avalanche%20data%20analysis.ipynb?create=1).
+This [iPython notebook](http://nbviewer.ipython.org/urls/raw2.github.com/philngo/avalanche-exploration/master/code/Avalanche%20data%20analysis.ipynb?create=1)
+) will be of particular interest to anyone who wishes to look at some of the
+more interesting results.
 
 ## Disclaimer
 Results and predictions from this model *cannot replace* on-the-ground training
 in avalanche safety and rescue, nor can it alleviate the need for adequate
 equipment and travel companions.
+
+© Phil Ngo
+
+### Caveats
+- missing data from the first 3 hours of 2012-02-06, replaced it with the second
+ three hours instead
+- See discussion in iPython Notebook concerning the limitations of the UAC data,
+ which is crowd-sourced and potentially inaccurate.
